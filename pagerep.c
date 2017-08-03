@@ -1,12 +1,12 @@
 /*============================================================================*
-	pagerep.c
+  pagerep.c
 	
   This program compares the performance of different page replacement 
   algorithms.
   
   A makefile is provided, use the 'make' command to compile
   
-Author: Ben Pogrund
+  Author: Ben Pogrund
 *============================================================================*/
 
 /* libraries */
