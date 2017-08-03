@@ -5,3 +5,8 @@
   
   A makefile is provided, use the 'make' command to compile
   
+  
+<img src="https://github.com/Otays/Page-fault-algorithms/blob/master/pics/2.png" />
+
+  
+<img src="https://github.com/Otays/Page-fault-algorithms/blob/master/pics/1.png" />
