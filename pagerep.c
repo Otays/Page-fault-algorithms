@@ -6,8 +6,7 @@
   
   A makefile is provided, use the 'make' command to compile
   
-	: CS 4328 Lab 4 
-	: Ben Pogrund
+Author: Ben Pogrund
 *============================================================================*/
 
 /* libraries */
